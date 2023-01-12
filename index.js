@@ -34,7 +34,7 @@ for (let i = nav.length - 1; i >= 0; i--){
   };
  console.log(nameBack);
 
-//3.3
+//3.3 **i might ubderstood the directions wrong
 let someone = nav2;
 switch (someone){
   case driver:
